@@ -1,5 +1,5 @@
 
-html {font-size: 10px;
+html {
     font-family: "Noto Sans", sans-serif; 
   }
   h1 {
@@ -17,6 +17,15 @@ html {font-size: 10px;
     letter-spacing: 1px;
     text-align: justify;
   }
+
   html{ background-color: #000B27;
 }
- html{color:azure}
+
+ p {color:azure
+}
+
+ p { margin-right: 40px;
+ }
+
+ img{display: block;
+margin: 0 auto;}
