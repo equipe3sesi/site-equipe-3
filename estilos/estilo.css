@@ -26,10 +26,6 @@ text-align: start;}
 
 h1{color: #f5534d;}
 
-img{
-    width: 300px;
-    display: block;
-}
 html{
     margin-left: 10px;
 }
@@ -43,7 +39,11 @@ h1 {
     border: #CFDDA0;
   }
   p {text-align: justify;
-    width: 800px;
     margin-left: 400px;
  }
- 
+
+img{
+        width: 300px;
+        display: block;
+        margin-left: 10px;
+}
