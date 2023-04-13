@@ -21,6 +21,11 @@ html {
 header{color: azure;
 font-size: 10px;}
 
+.pauzinho{
+ display: flex;
+flex-direction: row;
+}
+
 h2{color: #CFDDA0;
 text-align: start;}
 
@@ -53,7 +58,7 @@ div>p{
   position: relative;
   bottom: 200px;
   left: 330px;
-  width: auto;
+  width: 100%;
 }
 
 h1{color: #F290FF;}
