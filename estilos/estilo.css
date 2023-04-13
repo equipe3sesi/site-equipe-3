@@ -29,6 +29,7 @@ h1{color: #f5534d;}
 h1 {
     font-size: 45px;
     text-align: left;
+    margin-top: 0;
   }
 
   p {text-align: justify;
