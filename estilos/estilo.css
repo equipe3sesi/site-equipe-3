@@ -58,5 +58,5 @@ div>p{
 h1{color: #F290FF;}
 
 div>p{
-  width: 633px;
+  max-width: 633px;
 }
