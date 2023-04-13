@@ -1,4 +1,3 @@
-
 html {
     font-family: "Noto Sans", sans-serif; 
   }
@@ -35,3 +34,6 @@ font-size: 10px;}
 
 h2{color: #CFDDA0;
 text-align: start;}
+
+#processador{width: 500px;
+}
