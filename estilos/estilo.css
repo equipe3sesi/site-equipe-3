@@ -8,8 +8,6 @@ html {
   }
   h2{
     font-size: 35px;
-    text-align: left;
-    color: #CFDDA0;
   }
   
   p, li {
@@ -28,9 +26,12 @@ html {
     width: 800px;
  }
 
- .img2{display: block;
+ img{display: block;
 margin: 0 auto;
 }
 
 header{color: azure;
 font-size: 10px;}
+
+h2{color: #CFDDA0;
+text-align: start;}
