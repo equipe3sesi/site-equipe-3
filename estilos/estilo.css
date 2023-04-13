@@ -43,4 +43,8 @@ h1 {
     font-size: 50px;
     text-align: left;
   }
+
+  html{
+    border: #CFDDA0;
+  }
   
