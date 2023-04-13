@@ -25,17 +25,16 @@ html {
     width: 800px;
  }
 
- img{display: block;
-margin: 0 auto;
-}
-
 header{color: azure;
 font-size: 10px;}
 
 h2{color: #CFDDA0;
 text-align: start;}
 
-#processador{width: 500px;
+h1{color: #f5534d;}
+
+img{
+    width: 600px;
+    align-items: end;
 }
 
-h1{color: #f5534d;}
