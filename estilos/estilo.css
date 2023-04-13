@@ -59,6 +59,10 @@ div>p{
   position: relative;
   bottom: 200px;
   left: 330px;
-  max-width: 300px;
 }
 
+*{
+  max-width: 1000px;
+}
+div>p{
+  max-width: 300px;}
