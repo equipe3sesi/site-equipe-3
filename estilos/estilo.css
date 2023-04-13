@@ -58,11 +58,6 @@ div>p{
   position: relative;
   bottom: 200px;
   left: 330px;
-  width: 100%;
 }
 
 h1{color: #F290FF;}
-
-div>p{
-  max-width: 633px;
-}
