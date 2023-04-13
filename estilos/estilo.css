@@ -18,3 +18,8 @@ html {font-size: 10px;
     text-align: justify;
   }
   html{ background-color: #070027;}
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
