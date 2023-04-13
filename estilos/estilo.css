@@ -34,11 +34,8 @@ text-align: start;}
 h1{color: #f5534d;}
 
 img{
-    width: 600px;
-    align-items: end;
-}
-
-header{
-    line-height: 5;
+    width: 300px;
+    display: block;
+    margin-left: 800px;
 }
 
