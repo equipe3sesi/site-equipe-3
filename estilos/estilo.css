@@ -4,7 +4,7 @@ html {
   }
   h1 {
     font-size: 60px;
-    text-align: center;
+    text-align: left;
   }
   h2{
     font-size: 35px;
@@ -27,7 +27,7 @@ html {
     width: 800px;
  }
 
- img{display: block;
+ .img2{display: block;
 margin: 0 auto;
 }
 
