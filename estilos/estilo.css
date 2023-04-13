@@ -53,6 +53,7 @@ div>p{
   position: relative;
   bottom: 200px;
   left: 330px;
+  width: auto;
 }
 
 h1{color: #F290FF;}
