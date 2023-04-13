@@ -1,10 +1,6 @@
 html {
     font-family: "Noto Sans", sans-serif; 
   }
-  h1 {
-    font-size: 50px;
-    text-align: left;
-  }
 
   h2{
     font-size: 35px;
@@ -42,3 +38,9 @@ img{
 html{
     margin-left: 10px;
 }
+
+h1 {
+    font-size: 50px;
+    text-align: left;
+  }
+  
