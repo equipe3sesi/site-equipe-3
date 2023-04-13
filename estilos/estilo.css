@@ -47,3 +47,8 @@ body{
     border-color: #f5534d;
     background-color: #000B27;
 }
+.pauzinho{
+  position: relative;
+  bottom: 100px;
+
+}
